@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello alo
+=======
+hello hiu
+>>>>>>> nhanh1
